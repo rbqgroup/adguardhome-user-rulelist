@@ -1,0 +1,8 @@
+## https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@refs/heads/master/Clash/Ruleset/EHGallery.list
+
+@@||e-hentai.org^
+@@||ehwiki.org^
+@@||ehgt.org^
+@@||exhentai.org^
+@@||hentaiverse.org^
+@@||hath.network^
